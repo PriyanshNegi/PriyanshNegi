@@ -5,19 +5,19 @@
 
 - 🤖 Current Project --> [Predco AI](https://github.com/PriyanshNegi/PredCo)
 
-- 🌱 Implementing : **AI, Product Management, DSA Fundamentals**
+- 🌱 Implementing : **AI, Product Management, Data Analytics**
 
 - 👨🏻‍💻 Earlier led the built of --> [Startic Field](https://github.com/PriyanshNegi/StarticFieldFrontend)
 
 - ❓ Why we are here ? [To collaborate.](https://www.linkedin.com/in/priyanshnegi/)
-
-- 😬 Third year at college : Soon about to start App Dev, DevOps, Cloud.
 
 - ♥️ Core subjects I'm good at --> Computer Networks, DBMS, Architecture, OS.
 
 - 🤔 First year at college : **Built a startup.**
 
 - 😕 Second year at college : **Failed, working on another AI project, learning DSA!**
+
+- 😬 Third year at college : Soon about to start App Dev, DevOps, Cloud.
 
 - 📄 Know about my experiences : Resume to be uploaded soon....
 
