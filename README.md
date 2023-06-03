@@ -3,25 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshnegi&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshnegi" /> </p>
 
-- 🤖 Current Project --> [Predco AI](https://github.com/PriyanshNegi/PredCo)
+🤖 Current Project --> [Predco AI](https://github.com/PriyanshNegi/PredCo)
 
-- 🌱 Implementing : **AI, Product Management, Data Analytics**
+🌱 Implementing --> AI, Product Management, Data Analytics
 
-- 👨🏻‍💻 Earlier led the built of --> [Startic Field](https://github.com/PriyanshNegi/StarticFieldFrontend)
+👨🏻‍💻 Earlier led the built of --> [Startic Field](https://github.com/PriyanshNegi/StarticFieldFrontend)
 
-- ❓ Why we are here ? [To collaborate.](https://www.linkedin.com/in/priyanshnegi/)
+❓ Why we are here ? --> [To collaborate.](https://www.linkedin.com/in/priyanshnegi/)
 
-- ♥️ Core subjects I'm good at --> Computer Networks, DBMS, Architecture, OS.
+♥️ Core subjects I'm good at --> Computer Networks, DBMS, Architecture, OS.
 
-- 🤔 First year at college : **Built a startup.**
+🤔 First year at college : **Built a startup.**
 
-- 😕 Second year at college : **Failed, working on another AI project, learning DSA!**
+😕 Second year at college : **Failed, working on another AI project, learning DSA!**
 
-- 😬 Third year at college : Soon about to start App Dev, DevOps, Cloud.
+😬 Third year at college : Soon about to start App Dev, DevOps, Cloud.
 
-- 📄 Know about my experiences : Resume to be uploaded soon....
+📄 Know about my experiences : Resume to be uploaded soon....
 
-- 💼 My Portfolio **https://priyanshnegi.vercel.app**
+💼 My Portfolio --> **https://priyanshnegi.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
