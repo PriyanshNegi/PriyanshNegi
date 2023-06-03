@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences : Resume to be uploaded soon....
 
-- 💼 My Portfolio **https://github.com/PriyanshNegi**
+- 💼 My Portfolio **https://priyanshnegi.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
