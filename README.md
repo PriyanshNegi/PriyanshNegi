@@ -13,7 +13,7 @@
 
 ❓ Why we are here ? [To collaborate](https://www.linkedin.com/in/priyanshnegi/)
 
-😬 Third year at college : Soon about to start App Dev, DevOps, Cloud
+😬 Third year at college : Will complete App Dev, DevOps, Cloud
 
 ♥️ Core subjects I'm good at --> Computer Networks, DBMS, Architecture, OS
 
