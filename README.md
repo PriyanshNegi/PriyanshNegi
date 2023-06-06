@@ -13,13 +13,13 @@
 
 ❓ Why we are here ? [To collaborate](https://www.linkedin.com/in/priyanshnegi/)
 
-😬 Third year at college : Will complete App Dev, DevOps, Cloud
-
 ♥️ Core subjects I'm good at --> Computer Networks, DBMS, Architecture, OS
 
 🤔 First year at college : **Built a startup**
 
 😕 Second year at college : **Working on another AI project, learning DSA!**
+
+😬 Third year at college : Will complete App Dev, DevOps, Cloud
 
 📄 Know about my experiences [Resume to be uploaded soon....](Resume to be uploaded soon....)
 
