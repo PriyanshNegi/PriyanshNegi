@@ -19,7 +19,7 @@
 
 🤔 First year at college : **Built a startup**
 
-😕 Second year at college : **Failed, working on another AI project, learning DSA!**
+😕 Second year at college : **Working on another AI project, learning DSA!**
 
 📄 Know about my experiences [Resume to be uploaded soon....](Resume to be uploaded soon....)
 
