@@ -7,7 +7,7 @@
 
 🤖 Current Project --> [Predco AI](https://github.com/PriyanshNegi/PredCo)
 
-🌱 Implementing : **AI, Product Management, Data Analytics**
+🌱 Focus : **Tech, Product and Business**
 
 👨🏻‍💻 Earlier led the built of --> [Startic Field](https://github.com/StarticField)
 
