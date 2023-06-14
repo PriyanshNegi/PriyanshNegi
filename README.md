@@ -1,9 +1,9 @@
 # Backend Developer | Django | Javascript | Node.js 
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=FFD966&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Software+Developer+;I+am+a+Machine+Learning+Engineer+;I+can+manage+Products+;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=FFD966&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Software+Developer+;I+am+a+Machine+Learning+Engineer+;I+can+manage+Teams+and+Products+;Always+learning+new+things" alt="Typing SVG" /></a>
 <br/>
-- 🔭 Software developer with 1 year of experience designing and building scalable, high-performance web based applications<br/>
+- 🔭 Software developer with 1 year of experience designing and building scalable, high-performance web based applications.<br/>
 - 🌱 Proficient in back-end technologies like Node.js, Python, PHP as well as front-end technologies like React, Next.js, and Vue.js<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS.<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
@@ -32,24 +32,24 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>RestAPI
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+        <img src="https://skillicons.dev/icons?i=arduino" alt="icon" width="65" height="65" />
+      <br>Arduino
     </td>
   </tr>
   <tr>
@@ -61,12 +61,12 @@
       <br>Github
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Git" />
+      <br>Kafka
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Laravel" />
+      <br>Docker
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -77,26 +77,26 @@
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="bootstrap" />
+      <br>Firebase
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="48" height="48" alt="jQuery" />
+      <br>Swift
     </td>
   </tr>
  <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+        <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="MongoDB" />
+      <br>Grafana
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Nodejs" />
+      <br>Figma
       </td>
       </td>
     <td align="center" width="96">
@@ -108,24 +108,24 @@
       <br>VsCode
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="WordPress" />
+      <br>Postman
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vue" />
+      <br>Vercel
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br>Sass
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="MySQL" />
+      <br>Rabbitmq
+    </td> -->
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="PostgreSQL" />
+      <br>Prometheus
     </td>
  </tr>
 </table>
@@ -138,9 +138,8 @@
 
 <p align="center">
 
-<!--
-<a href="https://github.com/whitehorse21?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=whitehorse21&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
--->
+<a href="https://github.com/PriyanshNegi?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=PriyanshNegi&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
+
 
 <a href="https://github.com/PriyanshNegi?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=PriyanshNegi&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
 <a href="https://github.com/PriyanshNegi?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PriyanshNegi&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@PriyanshNegi's github-readme-streak-stats"/></a>
