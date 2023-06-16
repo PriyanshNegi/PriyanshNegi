@@ -1,7 +1,7 @@
-# Backend Developer | Django | Javascript | Node.js 
+# Developer | Product Person | Researcher
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=FFD966&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Software+Developer+;I+am+a+Machine+Learning+Engineer+;I+can+manage+Teams+and+Products+;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=FFD966&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+can+develop+web+applications+;I+am+a+Machine+Learning+Engineer+;I+can+manage+Teams+and+Products+;Always+learning+new+things" alt="Typing SVG" /></a>
 <br/>
 - 🔭 Software developer with 1 year of experience designing and building scalable, high-performance web based applications.<br/>
 - 🌱 Proficient in languages like Python, C++, Java. <br/>
