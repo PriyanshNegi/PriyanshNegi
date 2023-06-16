@@ -152,6 +152,15 @@
     </a>
 </p>
 
+<!--  Wakatime Display
+<p align="center">
+    <a href="https://wakatime.com/@PriyanshNegi">
+        <img src="https://wakatime.com/badge/user/dec8b8d1-9b2e-45f4-a581-a698b6033f0e/project/294ac405-0e44-42ff-85aa-6a5c020a09c8.svg" width="95%" alt="PriyanshNegi's activity graph">
+    </a>
+</p>
+-->
+
+
 <p align="center">
 <figure><embed src="https://wakatime.com/share/@PriyanshNegi/e149a0d0-c487-4b86-a263-79b15faf15a3.svg"></embed></figure>
 
