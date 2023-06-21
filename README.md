@@ -167,7 +167,7 @@
 </p>
 
 <p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshNegi&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="PriyanshNegi :: Top Langs" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshNegi&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="PriyanshNegi :: Top Langs" />
 <a href="https://github.com/PriyanshNegi?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=PriyanshNegi&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@PriyanshNegi's trophy stats"/></a>
 </p>
 
