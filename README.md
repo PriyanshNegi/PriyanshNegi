@@ -138,10 +138,10 @@
 
 <p align="center">
 
-<a href="https://github.com/PriyanshNegi?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=PriyanshNegi&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
+<a href="https://github.com/PriyanshNegi?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=PriyanshNegi&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@PriyanshNegi's github-readme-stats"/></a>
 
 
-<a href="https://github.com/PriyanshNegi?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=PriyanshNegi&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
+<a href="https://github.com/PriyanshNegi?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=PriyanshNegi&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@PriyanshNegi's github-readme-stats"/></a>
 <a href="https://github.com/PriyanshNegi?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PriyanshNegi&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@PriyanshNegi's github-readme-streak-stats"/></a>
 </p>
 
@@ -152,14 +152,13 @@
     </a>
 </p>
 
-<!--  Wakatime Display
+<!-- Wakatime Display
 <p align="center">
     <a href="https://wakatime.com/@PriyanshNegi">
         <img src="https://wakatime.com/badge/user/dec8b8d1-9b2e-45f4-a581-a698b6033f0e/project/294ac405-0e44-42ff-85aa-6a5c020a09c8.svg" width="95%" alt="PriyanshNegi's activity graph">
     </a>
 </p>
 -->
-
 
 <p align="center">
 <figure><embed src="https://wakatime.com/share/@PriyanshNegi/e149a0d0-c487-4b86-a263-79b15faf15a3.svg"></embed></figure>
@@ -169,7 +168,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshNegi&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="PriyanshNegi :: Top Langs" />
-<a href="https://github.com/PriyanshNegi?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=PriyanshNegi&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@whitehorse21's trophy stats"/></a>
+<a href="https://github.com/PriyanshNegi?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=PriyanshNegi&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@PriyanshNegi's trophy stats"/></a>
 </p>
 
 <h2>Contact me :postbox:</h2>
