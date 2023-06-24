@@ -9,6 +9,7 @@
 - 📝 Doing research on Multimodal Sentiment Analysis.<br/>
 </div>
 
+<!--
 <h2>My stack :man_technologist:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -131,6 +132,7 @@
 </table>
 <br><br>
 </div>
+-->
 
 <h2>Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
@@ -177,7 +179,10 @@
   
 <a href="https://www.linkedin.com/in/priyanshnegi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+<!--
 <a href="https://www.instagram.com/Priyanshpn_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+-->
+
 
 </div>
