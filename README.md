@@ -7,6 +7,7 @@
 - 🌱 Proficient in languages like Python, C++ and Java. <br/>
 - 👍 Learning DevOps, CI/CD, and Cloud infrastructure, especially with AWS.<br/>
 - 📝 Doing research on Multimodal Sentiment Analysis.<br/>
+- ❤️ Interested in Open Source Contribution.<br/>
 </div>
 
 <!--
