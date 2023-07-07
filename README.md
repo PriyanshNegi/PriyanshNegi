@@ -3,7 +3,7 @@
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=FFD966&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+can+develop+web+applications+;I+am+a+Machine+Learning+Engineer+;I+can+manage+Teams+and+Products+;Always+learning+new+things" alt="Typing SVG" /></a>
 <br/>
-<!-- - 🔭 Aspiring Software developer with 1 year of experience designing and building scalable, high-performance web based applications.<br/> -->
+- 🔭 Aspiring Computer Science Engineer with the desire to learn every bit. <br/>
 - 🌱 Proficient in languages like Python, C++ and Java. <br/>
 - 👍 Learning DevOps, CI/CD, and Cloud infrastructure, especially with AWS.<br/>
 - 📝 Doing research on Multimodal Sentiment Analysis.<br/>
@@ -168,20 +168,29 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshNegi&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="PriyanshNegi :: Top Langs" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshNegi&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="PriyanshNegi :: Top Langs" /> -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshNegi&theme=merko&size_weight=0.5&count_weight=0.5) 
 <a href="https://github.com/PriyanshNegi?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=PriyanshNegi&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@PriyanshNegi's trophy stats"/></a>
 </p>
 
-<h2>Contact me :postbox:</h2>
+<h2>Let's connect ! ☕</h2>
 <div>
-  <a href = "mailto:priyansh.negiji@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-<a href="https://www.linkedin.com/in/priyanshnegi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/priyanshnegi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<a href="https://twitter.com/Priyanshnegi_03" target="_blank"><img src="https://img.shields.io/badge/Twitter-0072b1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
 <!--
 <a href="https://www.instagram.com/Priyanshpn_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 -->
 
+<!--
+<a href="https://www.buymeacoffee.com/priyanshnegi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="27" width="132"></a>
+-->
+
+<a href = "mailto:priyansh.negiji@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 
 </div>
