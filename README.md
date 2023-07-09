@@ -39,7 +39,7 @@
 <a href="https://github.com/PriyanshNegi?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=PriyanshNegi&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@PriyanshNegi's trophy stats"/></a>
 </p>
 
-<h2>My Medium Blog posts</h2>  
+<h2>✍🏻 My Medium Blog posts</h2>  
 
 <!-- BLOG-POST-LIST:START -->
 - [The Challenge of Entrepreneurship: Tips and Insights for Starting Your Startup](https://priyanshnegi.medium.com/the-challenge-of-entrepreneurship-tips-and-insights-for-starting-your-startup-de9ba118a45a?source=rss-c5dd37f496b2------2) <br>
@@ -47,15 +47,10 @@
 - [Why I’m writing my first Blog ? ✍](https://priyanshnegi.medium.com/why-im-writing-my-first-blog-bf52fee92ee1?source=rss-c5dd37f496b2------2)<br>
 <!-- BLOG-POST-LIST:END -->
 
-<br>  
-<h2>This week I spent my time on</h2>
-
-![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=priyanshnegi&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-<h2>My coding time this week</h2>
+<h2>⏳ My coding time this week</h2>
 <a href="https://wakatime.com/@dec8b8d1-9b2e-45f4-a581-a698b6033f0e"><img src="https://wakatime.com/badge/user/dec8b8d1-9b2e-45f4-a581-a698b6033f0e.svg" alt="Total time coded since Jun 14 2023" /></a>
   
-<h2>Connect with me at</h2>
+<h2>🤝 Connect with me at</h2>
 
 <div>
 
@@ -67,7 +62,7 @@
 
 </div>
 
-<h2>If you want to support me</h2>
+<h2>🎗️ If you want to support me</h2>
 
 <div>
   
