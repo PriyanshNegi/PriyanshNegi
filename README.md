@@ -42,9 +42,9 @@
 <h2>✍🏻 My Medium Blog posts</h2>  
 
 <!-- BLOG-POST-LIST:START -->
-- [The Challenge of Entrepreneurship: Tips and Insights for Starting Your Startup](https://priyanshnegi.medium.com/the-challenge-of-entrepreneurship-tips-and-insights-for-starting-your-startup-de9ba118a45a?source=rss-c5dd37f496b2------2) <br>
-- [From Debacle to Development: Decoding My First Year of College and the Community Development](https://priyanshnegi.medium.com/from-debacle-to-development-decoding-my-first-year-of-college-and-the-community-development-4378c7854fb?source=rss-c5dd37f496b2------2) <br>
-- [Why I’m writing my first Blog ? ✍](https://priyanshnegi.medium.com/why-im-writing-my-first-blog-bf52fee92ee1?source=rss-c5dd37f496b2------2)<br>
+- [The Challenge of Entrepreneurship: Tips and Insights for Starting Your Startup](https://priyanshnegi.medium.com/the-challenge-of-entrepreneurship-tips-and-insights-for-starting-your-startup-de9ba118a45a?source=rss-c5dd37f496b2------2)
+- [From Debacle to Development: Decoding My First Year of College and the Community Development](https://priyanshnegi.medium.com/from-debacle-to-development-decoding-my-first-year-of-college-and-the-community-development-4378c7854fb?source=rss-c5dd37f496b2------2)
+- [Why I’m writing my first Blog ? ✍](https://priyanshnegi.medium.com/why-im-writing-my-first-blog-bf52fee92ee1?source=rss-c5dd37f496b2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>⏳ My coding time this week</h2>
