@@ -39,7 +39,7 @@
 <a href="https://github.com/PriyanshNegi?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=PriyanshNegi&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@PriyanshNegi's trophy stats"/></a>
 </p>
 
-<h2>✍🏻 My Medium Blog posts</h2>  
+<h3>✍🏻 My Medium Blog posts</h3>  
 
 <!-- BLOG-POST-LIST:START -->
 - [Finding the Real Problem Statement❓](https://priyanshnegi.medium.com/finding-the-real-problem-statement-77c2838b853d?source=rss-c5dd37f496b2------2)
@@ -48,7 +48,8 @@
 - [Why I’m writing my first Blog ? ✍](https://priyanshnegi.medium.com/why-im-writing-my-first-blog-bf52fee92ee1?source=rss-c5dd37f496b2------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h2>⏳ My coding time this week</h2>
+<h2>⏳ My coding time (Since July'23) </h2>
+
 <a href="https://wakatime.com/@dec8b8d1-9b2e-45f4-a581-a698b6033f0e"><img src="https://wakatime.com/badge/user/dec8b8d1-9b2e-45f4-a581-a698b6033f0e.svg" alt="Total time coded since Jun 14 2023" /></a>
   
 <h2>🤝 Connect with me at</h2>
