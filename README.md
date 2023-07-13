@@ -48,7 +48,10 @@
 - [Why I’m writing my first Blog ? ✍](https://priyanshnegi.medium.com/why-im-writing-my-first-blog-bf52fee92ee1?source=rss-c5dd37f496b2------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h2>⏳ My coding time (Since July'23) </h2>
+<h2>⏳ Wakatime Stats </h2>
+
+Tracking my coding time since July'23. <br>
+VS Code only. 👨🏻‍💻
 
 <a href="https://wakatime.com/@dec8b8d1-9b2e-45f4-a581-a698b6033f0e"><img src="https://wakatime.com/badge/user/dec8b8d1-9b2e-45f4-a581-a698b6033f0e.svg" alt="Total time coded since Jun 14 2023" /></a>
   
