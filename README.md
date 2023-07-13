@@ -68,4 +68,7 @@
 <div>
   
 <a href="https://www.buymeacoffee.com/priyanshnegi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="27" width="132"></a>
+
+[![github](https://img.shields.io/github/followers/PriyanshNegi?logo=github&style=plastic)](https://github.com/PriyanshNegi?tab=followers)
+
 </div>
