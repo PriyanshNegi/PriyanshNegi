@@ -71,9 +71,9 @@ VS Code only. 👨🏻‍💻 </h5>
 <h2>🎗️ If you want to support me</h2>
 
 <div>
+
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/PriyanshNegi)
   
 <a href="https://www.buymeacoffee.com/priyanshnegi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="27" width="132"></a>
-
-[![github](https://img.shields.io/github/followers/PriyanshNegi?logo=github&style=plastic)](https://github.com/PriyanshNegi?tab=followers)
 
 </div>
