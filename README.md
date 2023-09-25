@@ -3,10 +3,10 @@
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=FFD966&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Software+Developer+Engineer+;I+am+working+on+some+cool+projects+;Currently+learning+DevOps+and+Cloud." alt="Typing SVG" /></a>
 <br/><br/>
-🔭  Aspiring Computer Science Engineer.<br/>
-📝  Doing research on some ML topics.<br/>
-❤️  Interested in learning DevOps and Cloud.<br/>
-⚡️  Working on some cool projects and ideas for future! <br/>  
+🎓  Pursuing CS-AI Engineering.<br/>
+✅  Full Stack Web Dev | ML | IoT | AWS.<br/>
+☁️  Learning DevOps and Cloud.<br/>
+⚡️  Working on Predictive Maintenance technology under Industry 4.0. <br/>  
   <br/>
 </div>
 
@@ -35,9 +35,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshNegi&theme=merko&layout=compact&size_weight=0.5&count_weight=0.5) 
 </p>
 
-<p align="center>
-<a href="https://github.com/PriyanshNegi?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=PriyanshNegi&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@PriyanshNegi's trophy stats"/></a>
-</p>
+![](https://github-trophies.vercel.app/?username=PriyanshNegi)
 
 <h3>✍🏻 My Medium Blog posts</h3>  
 
@@ -51,7 +49,7 @@
 
 <h2>⏳ Wakatime Stats </h2>
 
-<h5>Tracking my coding time since July'23. <br>
+<h5>Tracking my coding time since July'23 for learning purpose. <br>
 VS Code only. 👨🏻‍💻 </h5>
 
 <a href="https://wakatime.com/@dec8b8d1-9b2e-45f4-a581-a698b6033f0e"><img src="https://wakatime.com/badge/user/dec8b8d1-9b2e-45f4-a581-a698b6033f0e.svg" alt="Total time coded since Jun 14 2023" /></a>
