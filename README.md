@@ -1,77 +1,148 @@
-## 🔨 Building real life projects and experience of solving problems 
-
-<div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=FFD966&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Software+Developer+Engineer+;I+am+working+on+some+cool+projects+;Currently+learning+DevOps+and+Cloud." alt="Typing SVG" /></a>
-<br/><br/>
-🎓  Pursuing CS-AI Engineering.<br/>
-✅  Full Stack Web Dev | ML | IoT | AWS.<br/>
-☁️  Learning DevOps and Cloud.<br/>
-⚡️  Working on Predictive Maintenance technology under Industry 4.0. <br/>  
-  <br/>
+<!-- Header Section -->
+<div align="center">
+  <h1>👋 Hi, I'm Priyansh Negi</h1>
+  <p>Passionate Software Developer | ML Enthusiast | Cloud & DevOps Learner</p>
 </div>
 
-<h2>📊 Github stats</h2>
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{PriyanshNegi}/count.svg" alt="PriyanshNegi :: Visitor's Count" /></p>
-
+<!-- Typing Animation -->
 <p align="center">
-<a href="https://github.com/PriyanshNegi?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=PriyanshNegi&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@PriyanshNegi's github-readme-stats"/></a>
-<a href="https://github.com/PriyanshNegi?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PriyanshNegi&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@PriyanshNegi's github-readme-streak-stats"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFD966&size=30&vCenter=true&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Cloud+and+DevOps+Learner">
 </p>
 
-<p align="center">
-    <a href="https://wakatime.com/@PriyanshNegi">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshNegi&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="PriyanshNegi's activity graph">
-    </a>
+<!-- About Me Section -->
+<h2>🌟 About Me</h2>
+<p>
+  Hi there! I'm Priyansh, a passionate software developer who likes solving complex problems. I like challenges and enjoy building real-world applications. My journey involves working on exciting projects, diving into the world of machine learning and exploring cloud technologies. Currently, I'm going deeper into the domain of DevOps and Cloud Computing.
 </p>
 
+<!-- Tech Stack Section -->
+<h2>💻 Tech Stack</h2>
+<p>
+  Here are some of the technologies and tools I work with daily:
+</p>
 <p align="center">
-<figure><embed src="https://wakatime.com/share/@PriyanshNegi/e149a0d0-c487-4b86-a263-79b15faf15a3.svg"></embed></figure>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <!-- Add more technologies and tools as needed -->
 </p>
 
-<p align="center">
+<!-- Web Development Section -->
+<h2>🌐 Web Development</h2>
+<p>
+  I have a strong background in web development, including:
+</p>
+<ul>
+  <li>Front-end development using Next.js</li>
+  <li>Back-end development with Django</li>
+  <li>Creating responsive and user-friendly UI/UX</li>
+  <li>RESTful API design and development</li>
+</ul>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshNegi&theme=merko&layout=compact&size_weight=0.5&count_weight=0.5) 
+<!-- Machine Learning Section -->
+<h2>🤖 Machine Learning</h2>
+<p>
+  I'm passionate about machine learning and data science. Some of my ML skills include:
+</p>
+<ul>
+  <li>Building and training machine learning models</li>
+  <li>Data preprocessing and feature engineering</li>
+  <li>Natural language processing (NLP)</li>
+  <li>Computer vision and image recognition</li>
+</ul>
+
+<!-- Cloud & DevOps Section -->
+<h2>☁️ Cloud & DevOps</h2>
+<p>
+  I have hands-on experience with a wide range of cloud and DevOps technologies, including:
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <!-- Add more cloud and DevOps tools as needed -->
 </p>
 
-![](https://github-trophies.vercel.app/?username=PriyanshNegi)
+<!-- Architecture Section -->
+<h2>🏗️ Architecture</h2>
+<p>
+  I'm learning more about designing scalable and efficient cloud architectures which includes:
+</p>
+<ul>
+  <li>Microservices Architecture</li>
+  <li>Serverless Computing</li>
+  <li>Continuous Integration and Continuous Deployment (CI/CD)</li>
+  <li>High Availability and Disaster Recovery</li>
+</ul>
 
-<h3>✍🏻 My Medium Blog posts</h3>  
+<!-- Projects Section -->
+<h2>🚀 Featured Projects</h2>
+<ul>
+  <li>
+    <a href="https://github.com/YourUsername/Project1">Project 1: Volt</a> - Volt served as a comprehensive portfolio management software catering to both entrepreneurs and investors. Volt offered two application suites, providing a holistic solution for managing startup portfolios.
+  </li>
+  <li>
+    <a href="https://github.com/YourUsername/Project2">Project 2: PredCo</a> - PredCo is an innovative AI-driven software application specializing in advanced predictive analytics and data-driven insights
+  </li>
+</ul>
 
-<!-- BLOG-POST-LIST:START -->
-- [Unlocking the Path to the Best Solution: Exploring, Evaluating, and Refining](https://priyanshnegi.medium.com/unlocking-the-path-to-the-best-solution-exploring-evaluating-and-refining-67f59f02c0b4?source=rss-c5dd37f496b2------2)
-- [Finding the Real Problem Statement❓](https://priyanshnegi.medium.com/finding-the-real-problem-statement-77c2838b853d?source=rss-c5dd37f496b2------2)
-- [The Challenge of Entrepreneurship: Tips and Insights for Starting Your Startup](https://priyanshnegi.medium.com/the-challenge-of-entrepreneurship-tips-and-insights-for-starting-your-startup-de9ba118a45a?source=rss-c5dd37f496b2------2)
-- [From Debacle to Development: Decoding My First Year of College and the Community Development](https://priyanshnegi.medium.com/from-debacle-to-development-decoding-my-first-year-of-college-and-the-community-development-4378c7854fb?source=rss-c5dd37f496b2------2)
-- [Why I’m writing my first Blog ? ✍](https://priyanshnegi.medium.com/why-im-writing-my-first-blog-bf52fee92ee1?source=rss-c5dd37f496b2------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- GitHub Stats Section -->
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshNegi&theme=merko&show_icons=true&count_private=true&hide_border=true" alt="@PriyanshNegi's GitHub Stats"/>
+</p>
 
-<h2>⏳ Wakatime Stats </h2>
+<!-- Skills Section -->
+<h2>🔧 Skills</h2>
+<ul>
+  <li>Full Stack Web Development</li>
+  <li>Machine Learning and Data Science</li>
+  <li>Cloud Computing (AWS)</li>
+  <li>DevOps and CI/CD</li>
+  <!-- Add more skills as needed -->
+</ul>
 
-<h5>Tracking my coding time since July'23 for learning purpose. <br>
-VS Code only. 👨🏻‍💻 </h5>
+<!-- Blog Section -->
+<h2>✍️ Blog</h2>
+<ul>
+  <li>
+    <a href="https://medium.com/@PriyanshNegi">Medium Blog</a> - I write about tech, development and entrepreneurship.
+  </li>
+</ul>
 
-<a href="https://wakatime.com/@dec8b8d1-9b2e-45f4-a581-a698b6033f0e"><img src="https://wakatime.com/badge/user/dec8b8d1-9b2e-45f4-a581-a698b6033f0e.svg" alt="Total time coded since Jun 14 2023" /></a>
-  
-<h2>🤝 Connect with me at</h2>
+<!-- Education Section -->
+<h2>🎓 Education</h2>
+<p>
+  I'm currently pursuing a Bachelor's degree in Computer Science and Artificial Intelligence.
+</p>
 
-<div>
+<!-- Connect Section -->
+<h2>🤝 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshnegi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="https://twitter.com/Priyanshnegi_03" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-0072b1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:priyansh.negiji@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/priyanshnegi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-<a href="https://twitter.com/Priyanshnegi_03" target="_blank"><img src="https://img.shields.io/badge/Twitter-0072b1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-
-<a href = "mailto:priyansh.negiji@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
-
-<h2>🎗️ If you want to support me</h2>
-
-<div>
-
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/PriyanshNegi)
-  
-<a href="https://www.buymeacoffee.com/priyanshnegi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="27" width="132"></a>
-
-</div>
+<!-- Support Section -->
+<h2>🎗️ Support Me</h2>
+<p>
+  If you find my work valuable and want to support me, consider:
+</p>
+<p align="center">
+  <a href="https://github.com/sponsors/PriyanshNegi">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" />
+  </a>
+  <a href="https://www.buymeacoffee.com/priyanshnegi" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="27" width="132" />
+  </a>
+</p>
