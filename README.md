@@ -60,7 +60,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <!-- Add more cloud and DevOps tools as needed -->
@@ -92,7 +91,7 @@
 <!-- GitHub Stats Section -->
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshNegi&theme=merko&show_icons=true&count_private=true&hide_border=true" alt="@PriyanshNegi's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshNegi&show_icons=true&count_private=true&hide_border=true" alt="@PriyanshNegi's GitHub Stats"/>
 </p>
 
 <!-- Skills Section -->
